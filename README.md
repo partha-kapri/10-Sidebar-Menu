@@ -1,8 +1,8 @@
-# Project-10
+# Project-10-Sidebar-Menu
 
 # Author - Partha Kapri
 <br>
 # Git Repository No. 10 #
 <br>
-# This is a "" Web-Development project using HTML, CSS & JavaScript #
+# This is a "Sidebar Menu" Web-Development project using HTML, CSS & JavaScript #
 <br>
